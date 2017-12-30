@@ -1,0 +1,19 @@
+body{
+  font-family:'Lobster', Times New Roman;
+  background-image:url(https://upload.wikimedia.org/wikipedia/en/4/4a/Wikipedia-logo-Martial-Arts-nobg.png);
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  color:black;
+}
+.heading{
+  background-color:teal;
+  border-radius:25px;
+  display:inline-block;
+}
+button{
+  margin:1%;
+  
+}
+img{
+  height:400px;
+}
